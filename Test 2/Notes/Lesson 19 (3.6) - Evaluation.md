@@ -23,7 +23,7 @@ This lesson will cover the following topics:
 ## 5 Tips: What To Evaluate
 
 1. Efficiency - how long does user take to achieve text (Expert)
-2. Accuracy - how many users does users commit while executing a task (Expert)
+2. Accuracy - how many errors does users commit while executing a task (Expert)
 3. Learnability - How long does user take to reach expertise
 4. Memorability - users abiility to use interface over time
 5. Satisfaction - Cognitive load, how many actually download the app?
